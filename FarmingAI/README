@@ -1,0 +1,11 @@
+This is FARMING AI. An Application that runs on tkinter python. 
+
+Users input their soil conditions such as: temperature, humidity, rainfall, NPK and pH. 
+
+The XGBoost algorithm which is linked to the Kaggle Dataset, outputs the ideal/optimal crop to plant based on those conditions. 
+
+The GUI implementation showcases the results as pictures on the right hand side after pushing the "FARM!" button. 
+
+For efficiency reasons, the model training is saved in a joblib (pickle) file. And loaded when needed.
+
+Feel free to input your own farming characteristics and Enjoy the App!
