@@ -3,7 +3,7 @@ Hi There!
 
 Youssef here, I am passionate about Artificial Intelligence, Data Science and CHANGING THE WORLD!
 
-Here is where I showcase most of my projects in the evr growing field of Machine Learning.
+Here is where I showcase most of my projects in the ever growing field of Machine Learning.
 
 I try to make my code as readasble as possible.
 
